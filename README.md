@@ -1,6 +1,4 @@
-Here's a professional `README.md` file in **English** for your Titanic data preprocessing script, ready for GitHub:
 
----
 
 # 🧼 Titanic Data Cleaning Script
 
@@ -77,5 +75,5 @@ After execution, `titanic_cleaned.xlsx` will be generated in the same directory.
 * The script is designed to be a **lightweight and simple preprocessor** for Titanic data.
 * It’s easily extensible for further cleaning or feature engineering.
 
----
+
 
